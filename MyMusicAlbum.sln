@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMusicAlbum", "MyMusicAlbum\MyMusicAlbum.csproj", "{4333CB04-83AD-4F37-ABE2-9B322EF7E3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMusicAlbum.Models", "MyMusicAlbum.Models\MyMusicAlbum.Models.csproj", "{FEF6F819-9C42-46F1-83C0-30CEEEA9B670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4333CB04-83AD-4F37-ABE2-9B322EF7E3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4333CB04-83AD-4F37-ABE2-9B322EF7E3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4333CB04-83AD-4F37-ABE2-9B322EF7E3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4333CB04-83AD-4F37-ABE2-9B322EF7E3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF6F819-9C42-46F1-83C0-30CEEEA9B670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF6F819-9C42-46F1-83C0-30CEEEA9B670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF6F819-9C42-46F1-83C0-30CEEEA9B670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF6F819-9C42-46F1-83C0-30CEEEA9B670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45B003A4-D444-46BD-B58A-6CFD1091A84F}
+	EndGlobalSection
+EndGlobal
