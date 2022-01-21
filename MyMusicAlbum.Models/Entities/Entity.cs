@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyMusicAlbum.Models
+namespace MyMusicAlbum.Models.Entities
 {
     public abstract class Entity
     {
